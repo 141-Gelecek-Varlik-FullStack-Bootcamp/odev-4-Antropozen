@@ -1,8 +1,9 @@
 # odev-4-Antropozen
-#Kullanıcıların sisteme login olduğu ve bu login işlemini bir attribute ile kontrol edildiği bir api ayağa kaldırıldı.
-#Ürünlerin listelendiği bir api yapıldı.
-#Pagination yaptığımız bir api oluşturuldu.
-#Sorting yaptığımız bir api oluşturuldu.
-#Filtering yaptığımız bir api oluşturuldu.
-
-Proje tamamlanmış olarak buraya yüklenmiştir.Commitleri incelemek isterseniz https://github.com/Antropozen/Car şu linkten inceleyebilirsiniz. 
+<ol>
+  <li>#Kullanıcıların sisteme login olduğu ve bu login işlemini bir attribute ile kontrol edildiği bir api ayağa kaldırıldı.</li>
+  <li>#Ürünlerin listelendiği bir api yapıldı.</li>
+  <li>#Pagination yaptığımız bir api oluşturuldu.</li>
+  <li>#Sorting yaptığımız bir api oluşturuldu.</li>
+  <li>#Filtering yaptığımız bir api oluşturuldu.</li>
+  <li>Proje tamamlanmış olarak buraya yüklenmiştir.Commitleri incelemek isterseniz https://github.com/Antropozen/Car şu linkten inceleyebilirsiniz.</li>
+</ol>
